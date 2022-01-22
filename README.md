@@ -1,6 +1,6 @@
 # ToDo-Application-Using-Model-based-containers.
 ## Introduction 
-As the firt version we will use QtDesigner to create MainWindow Application and Dialog Form , But for the Main window we will use tableview as a centralwidget.
+As the firSt version we will use QtDesigner to create MainWindow Application and Dialog Form , But for the Main window we will use tableview as a centralwidget.
 ## Creating Database
 we will create an database qsllite ,and open it for creating an tasks table.
 ```cpp
