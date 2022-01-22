@@ -69,6 +69,9 @@ When we clicked on New task action an Object D From Dialog class will created an
      }
 ```
 ![image](https://user-images.githubusercontent.com/93142901/150658458-ff7a82ea-7e42-47c2-8964-187ed37de4cb.png)
+![image](https://user-images.githubusercontent.com/93142901/150658601-39b165dc-7701-47ba-a8ee-a509b763c951.png)
+![image](https://user-images.githubusercontent.com/93142901/150658646-cd663872-ad38-4a20-8028-efcf229d7741.png)
+
 
 ## Planing task
 ```cpp
@@ -79,6 +82,8 @@ When we clicked on New task action an Object D From Dialog class will created an
 
    }
 ```
+![image](https://user-images.githubusercontent.com/93142901/150658655-6e9cb623-18b9-44f2-8b52-879b303fe0e1.png)
+
 ## Finished task 
 ```cpp 
       void ToDoApp::on_actionFinished_Task_triggered()
@@ -89,6 +94,8 @@ When we clicked on New task action an Object D From Dialog class will created an
 
 }
 ```
+![image](https://user-images.githubusercontent.com/93142901/150658667-ef4e8639-e870-45b9-8327-05be232ad443.png)
+
 ## AboutQt
 ```cpp
        
@@ -97,6 +104,8 @@ When we clicked on New task action an Object D From Dialog class will created an
        QMessageBox::aboutQt(this,"AboutQT");
   }
 ```
+![image](https://user-images.githubusercontent.com/93142901/150658680-e8fa9f5b-039b-4baa-b38a-1f5cf5c7dd62.png)
+
 ##Quit
 ```cpp
        void ToDoApp::on_actionQuit_triggered()
