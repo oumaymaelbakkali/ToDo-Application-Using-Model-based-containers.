@@ -117,3 +117,6 @@ When we clicked on New task action an Object D From Dialog class will created an
 
 ## Conclusion 
 A major advantage of the MVC pattern is divide the application IN Model, Control and View.So, any changes in a certain section of the application will never affect the entire architecture. This, in turn, will help to increase the flexibility and scalability of the application.
+
+
+> Good job.
